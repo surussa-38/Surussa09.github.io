@@ -3,7 +3,10 @@ body {
     line-height: 1.6; /* ระยะห่างระหว่างบรรทัดเพื่อให้ง่ายต่อการอ่าน */
     margin: 0;
     padding: 0;
-    background-color: #f9f6fØ; /* สีพื้นหลังของเว็บ */
+    background: linear-gradient(to bottom, #2e7d32 35%, #ffffff 35%);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
     color: #333; /* สีตัวอักษรหลัก */
 }
 
